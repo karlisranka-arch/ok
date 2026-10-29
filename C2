@@ -1,0 +1,9 @@
+a = 20
+
+g = a / 3
+print("griezienu skaits:",int(g))
+
+while a >= 3:
+  a = a - 3
+
+print("atliek naudas: ",a)
